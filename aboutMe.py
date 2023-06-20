@@ -1,3 +1,9 @@
+"""
+Name: aboutMe.py
+Author: Tiyler Lynum 
+Purpose: Create a program that asks basic personal questions. 
+"""
+
 firstName = str(input("What is your First Name?"))
 lastName = str(input("What is your Last Name?"))
 age = int(input("How old are you?"))
